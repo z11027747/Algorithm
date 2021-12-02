@@ -42,6 +42,9 @@
         <Compile Include="Properties\AssemblyInfo.cs" />
         <Compile Include="_1BinaryTree\BinaryTree.cs" />
         <Compile Include="_1BinaryTree\Node.cs" />
+        <Compile Include="_2QuadTree\AABB.cs" />
+        <Compile Include="_2QuadTree\QuadTree.cs" />
+        <Compile Include="_2QuadTree\QuadTreeNode.cs" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
