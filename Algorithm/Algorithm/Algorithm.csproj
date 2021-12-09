@@ -40,6 +40,7 @@
     <ItemGroup>
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
+        <Compile Include="__10NumberAdd.cs" />
         <Compile Include="_1BinaryTree\BinaryTree.cs" />
         <Compile Include="_1BinaryTree\Node.cs" />
         <Compile Include="_2QuadTree\AABB.cs" />
@@ -48,6 +49,10 @@
         <Compile Include="_3PrimeNumber.cs" />
         <Compile Include="_4StringSearch.cs" />
         <Compile Include="_5ReverseLinkedList.cs" />
+        <Compile Include="_6RemoveDuplicates.cs" />
+        <Compile Include="_7PivotIndex.cs" />
+        <Compile Include="_8Sqrt.cs" />
+        <Compile Include="_9MaxValue.cs" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
