@@ -53,6 +53,11 @@
         <Compile Include="_7PivotIndex.cs" />
         <Compile Include="_8Sqrt.cs" />
         <Compile Include="_9MaxValue.cs" />
+        <Compile Include="__11Fibonacci.cs" />
+        <Compile Include="__12ArrangeCoin.cs" />
+        <Compile Include="__13CycleLinkNode.cs" />
+        <Compile Include="__14MergeSortArr.cs" />
+        <Compile Include="__15AvgArray.cs" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
