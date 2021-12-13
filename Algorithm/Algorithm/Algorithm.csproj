@@ -40,6 +40,7 @@
     <ItemGroup>
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
+        <Compile Include="__17LemonChange.cs" />
         <Compile Include="__10NumberAdd.cs" />
         <Compile Include="_1BinaryTree\BinaryTree.cs" />
         <Compile Include="_1BinaryTree\Node.cs" />
@@ -58,6 +59,7 @@
         <Compile Include="__13CycleLinkNode.cs" />
         <Compile Include="__14MergeSortArr.cs" />
         <Compile Include="__15AvgArray.cs" />
+        <Compile Include="__16MaxSeq.cs" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
